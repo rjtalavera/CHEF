@@ -1,0 +1,72 @@
+body{font-family: Arial, Helvetica, sans-serif;}
+
+
+
+#white{
+	position:absolute;
+	background-color: white;	
+	height: 580px;
+	width: 1300px;
+	bottom: 45px;
+	left: 105px;
+}
+
+
+#bg{
+	position: relative;
+	float: right;
+	top: 1px;
+	bottom: 90px;
+	}
+
+
+#first
+{
+	font-size: 20px;
+	padding-top:20px;
+	padding-left:40px;
+	
+}
+#one
+{
+	font-size:40px;
+	color: #DB545A;
+}
+
+#second
+{
+	font-size: 20px;
+	padding-top:10px;
+	padding-left:40px;
+}
+#two
+{
+	font-size:40px;
+	color: #F1C513;
+}
+
+#third
+{
+	font-size: 20px;
+	top: 20px;
+	left: 400px;
+	position:absolute;
+}
+#three
+{
+	font-size:40px;
+	color: #18AC99;
+}
+#fourth
+{
+	font-size: 20px;
+		top: 270px;
+	left: 400px;
+	position:absolute;
+    
+}
+#four
+{
+	font-size:40px;
+	color: #858E99;
+}
